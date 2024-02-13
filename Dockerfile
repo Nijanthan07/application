@@ -1,2 +1,2 @@
 FROM httpd
-COPY target/index.html /usr/local/apache2/htdocs/
+COPY /var/lib/jenkins/workspace/pipeline_check/index.html /usr/local/apache2/htdocs/
