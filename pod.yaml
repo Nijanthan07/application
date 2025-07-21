@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: testpipe
-          image: nijanthan07/pipe
+          image: nijanthan07/nginx-cux
           imagePullPolicy: Always
